@@ -176,3 +176,7 @@ main {
   position: relative;
   right: 8px;
 }
+
+.hidden {
+  display: none;
+}
